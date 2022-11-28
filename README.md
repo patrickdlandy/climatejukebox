@@ -1,6 +1,6 @@
 # Climate Jukebox
 
-![](./img/og-climatejukebox.png)
+![](./img/logo_180x180.png)
 
 A database of musical references to climate change.
 
