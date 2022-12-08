@@ -1,4 +1,5 @@
 Song Title,Artist,Album,Year,Genres,Themes
+1.5,Sirintip,carbon,2022,"Pop, Electronic",Warming
 4 Degrees,ANOHNI,HOPELESSNESS,2016,Pop,Warming
 A Beautiful Lie,30 Seconds to Mars,A Beautiful Lie,2005,"Rock, Alternative Rock",Melting Ice
 A Minute To Breathe,Trent Reznor and Atticus Ross,Before the Flood (Music from the Motion Picture),2016,Electronic,Floods
@@ -9,10 +10,12 @@ And It Rained All Night,Thom Yorke,The Eraser,2006,"Electronic, Alternative Rock
 Another Way to Die,Disturbed,Asylum,2010,Heavy Metal,Melting Ice
 Better World / Livin' in the Dark,Axxis,The Big Thrill,1993,Rock,Warming
 Changing Tide,Bad Religion,True North,2013,Punk,
+Collapse (Post-Amerika),Rise Against,Appeal to Reason,2008,Punk,"Droughts, Warming"
 Cymbal Rush,Thom Yorke,The Eraser,2006,"Electronic, Alternative Rock","Floods, Warming"
 Dawn Patrol,Megadeth,Rust in Peace,1990,Heavy Metal,Warming
 Down feat Nikki Jean,Lupe Fiasco,Drogas Wave,2018,Hip Hop,Climate Change
 Earth,Lil Dicky,Earth (Single),2019,Pop,"Wildfires, Warming"
+Earth moment,Sirintip,carbon,2022,"Pop, Electronic",Climate Activism
 Endangered Species,Esperanza Spalding,Radio Music Society,2012,Jazz,Carbon Emissions
 Explorers,Muse,The 2nd Law,2012,"Rock, Pop",Warming
 Fall of Sipledome,Testament,The Gathering,1999,Heavy Metal,Melting Ice
@@ -20,7 +23,7 @@ Feels Like Summer,Childish Gambino,Summer Pack EP,2018,"Pop, R&B",Warming
 Franco Un-American,NOFX,The War on Errorism,2003,Punk,Warming
 Future of Sound (feat. Cody B Ware),Stray From The Path,Subliminal Criminals,2015,"Heavy Metal, Hip Hop","Melting Ice, Warming"
 Global Warming,Gojira,From Mars to Sirius,2005,Heavy Metal,Warming
-Global Warming (feat Sensato),Pitbull,Global Warming,2012,"Pop, Hip Hop",Warming
+Global Warming (feat Sensato),Pitbull,Global Warming,2012,"Hip Hop, Pop",Warming
 Gone Green,Brad Paisley,Moonshine in the Trunk,2014,Country,"Carbon Emissions, Renewable Energy"
 Greener,Arrested Development,Strong,2009,"R&B, Hip Hop",Warming
 Greenhouse Effect,Testament,Practice What You Preach,1989,"Rock, Heavy Metal","Wildfires, Warming"
@@ -28,29 +31,34 @@ Greenhouse Heat Death,King Gizzard & the Lizard Wizard,Gumboot Soup,2017,Rock,Wa
 Guardians of Earth,Sepultura,Quadra,2020,Heavy Metal,
 Heart on My Sleeve,Bob Mould,Blue Hearts,2020,Rock,"Wildfires, Climate Change"
 Heroin,Lana Del Rey,Lust For Life,2017,Pop,Warming
+Hostage,Sirintip,carbon,2022,"Pop, Electronic",Climate Change
 How Dare You,John Meredith,How Dare You (Single),2019,Heavy Metal,Climate Activism
 Humanity,Scorpions,Humanity: Hour I,2007,,
+Hydrogen,Sirintip,carbon,2022,"Pop, Electronic",Renewable Energy
 I Love Pop Music,Ben Lee,The Rebirth of Venus,2009,"Pop, Indie",Warming
 I Need to Wake Up,Melissa Etheridge,I Need to Wake Up (An Inconvenient Truth),2006,"Rock, Pop",Warming
 Idioteque,Radiohead,Kid A,2000,,Climate Denial
 If a Tree Falls,Bruce Cockburn,Big Circumstance,1989,Rock,Deforestation
 It's Your World,Bob Seger,Ride Out,2014,Rock,Melting Ice
 Kyoto Now!,Bad Religion,The Process of Belief,2002,Punk,Carbon Emissions
+LAUGH. CRY. SMILE. DIE.,Anti-Flag,LIES THEY TELL OUR CHILDREN,2023,Punk,"Carbon Emissions, Climate Denial"
 Love Song To The Earth,Various Artists,Love Song To The Earth,2015,Pop,Climate Activism
 Manufactured Extinct,Cattle Decapitation,The Anthropocene Extinction,2015,Heavy Metal,Warming
 Melting,King Gizzard & the Lizard Wizard,Flying Microtonal Banana,2017,Rock,Melting Ice
 Miracle,Above & Beyond,Acoustic,2014,"Pop, Electronic",Melting Ice
-Miracle,OceanLab (Above & Beyond presents),Sirens of the Sea,2008,"Pop, Electronic",Melting Ice
+Miracle,OceanLab (Above & Beyond presents),Sirens of the Sea,2008,"Electronic, Pop",Melting Ice
 Modern Day Catastrophists,Bad Religion,Recipe for Hate,1993,Punk,Warming
 New World Water,Yasiin Bey (prev. Mos Def),Black on Both Sides,1999,Hip Hop,"Wildfires, Sea Level Rise"
 Not in California,K.Flay,Solutions,2019,Pop,Wildfires
 Nothing At All,Deep Purple,Whoosh!,2020,Rock,Climate Denial
+Parts per Million,Rise Against,Wolves,2017,Punk,"Carbon Emissions, Warming"
 Planet B,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,"Rock, Heavy Metal",Droughts
-Praying For Rain,Don Henley,Cass County,2015,"Rock, Country",Droughts
+Praying For Rain,Don Henley,Cass County,2015,"Country, Rock",Droughts
 Rhinestone Eyes,Gorillaz,Plastic Beach,2010,"Pop, Electronic",Warming
 "Right Here, Right Now",Fatboy Slim,Live at Liverpool (Unofficial Recording),2019,Electronic,Climate Activism
 S2N,Dream Theater,Distance over Time,2019,Heavy Metal,Climate Change
 Shut It Down,Neil Young and Crazy Horse,Colorado,2019,Rock,Climate Activism
+Sleeping In,The Postal Service,Give Up,2003,"Pop, Indie",Warming
 SOS,3Unit,We are 3Unit and...,2015,Rock,
 The 1975 (NOACF),The 1975,Notes On A Conditional Form,2020,Pop,Climate Activism
 The Fireman’s Talkin’,Bob Seger,Ride Out,2014,Rock,"Wildfires, Melting Ice"
@@ -58,11 +66,12 @@ The Kids Are All Dying,Finneas,Optimist,2021,Pop,Carbon Emissions
 The Sea is Rising,Bliss n Eso,Flying Colours,2008,Hip Hop,"Melting Ice, Sea Level Rise"
 The Truth Comes Out,Corb Lund,Counterfeit Blues,2014,Country,Warming
 The Wolf is at the Door,Alex Goldman,The Wolf is At The Door,2020,"Rock, Punk",Sea Level Rise
-The Writing On The Wall,Alter Bridge,The Last Hero,2016,"Heavy Metal, Alternative Rock","Climate Denial, Warming"
+The Writing On The Wall,Alter Bridge,The Last Hero,2016,"Alternative Rock, Heavy Metal","Climate Denial, Warming"
 This Side,EARTHGANG,Mirrorland,2019,Hip Hop,
 Truth To Power,OneRepublic,An Inconvenient Sequel: Truth to Power,2017,"Rock, Pop","Melting Ice, Warming"
 Unfair,Bill Madden,Child of the Same God,2008,Indie,Carbon Emissions
-Venusian I,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,"Rock, Heavy Metal","Sea Level Rise, Deforestation"
+Unspoken gold feat. Owen Broder,Sirintip,carbon,2022,,
+Venusian I,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,"Heavy Metal, Rock","Sea Level Rise, Deforestation"
 Waiting For The Tide,Cody Simpson & The Tide,Wave One - EP,2017,"Rock, Pop",Sea Level Rise
 Wake Up America,Miley Cyrus,Breakout,2008,"Rock, Pop",Warming
 Welcome To The Future,Baby FuzZ,Welcome to The Future (Season 1),2021,Pop,Warming
