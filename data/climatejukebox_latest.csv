@@ -4,12 +4,13 @@ Song Title,Artist,Album,Year,Popularity,Genres,Themes
 A Beautiful Lie,30 Seconds to Mars,A Beautiful Lie,2005,54,"Rock, Alternative Rock",Melting Ice
 A Minute To Breathe,Trent Reznor and Atticus Ross,Before the Flood (Music from the Motion Picture),2016,30,"Electronic, Soundtrack",Floods
 All I Want For Christmas,Macy Gray,All I Want For Christmas (Single),2015,0,Christmas,Warming
-All Star,Smash Mouth,Astro Lounge,1999,83,"Rock, Pop","Warming, Melting Ice"
+All Star,Smash Mouth,Astro Lounge,1999,82,"Rock, Pop","Warming, Melting Ice"
 All The Good Girls Go To Hell,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",2019,77,"Pop, Electronic","Wildfires, Sea Level Rise"
 And It Rained All Night,Thom Yorke,The Eraser,2006,39,"Electronic, Alternative Rock",Floods
 Another Way to Die,Disturbed,Asylum,2010,56,Heavy Metal,Melting Ice
 Apocalypse Today,The Casualties,We Are All We Have,2009,25,Punk,"Biodiversity Loss, Warming"
-Arguing with Thermometers,Enter Shikari,A Flash Flood of Colour,2012,30,Alternative Rock,Melting Ice
+Arguing with Thermometers,Enter Shikari,A Flash Flood of Colour,2012,29,Alternative Rock,Melting Ice
+Atlantic,The Weather Station,Ignorance,2021,30,"Indie, Rock","Climate Change, Climate Denial"
 B**** Suck Dick (B.S.D.),"Tyler, the Creator",Goblin,2011,43,Hip Hop,Warming
 Backburner,Wildheart,Global Crisis,2021,13,Heavy Metal,"Wildfires, Sea Level Rise"
 Beds Are Burning (Dry Riverbed Version),Various Artists,Beds Are Burning (Dry Riverbed Version),2009,12,"Pop, Rock","Climate Activism, Climate Change, Warming, Droughts"
@@ -21,6 +22,7 @@ Climate Change,GAWVI,Heathen,2020,39,Hip Hop,Climate Change
 Climate Change,StarKid Productions,Firebringer (Original Cast Recording),2016,30,Musicals,"Climate Change, Warming"
 Cojiba,Black Thought,Jamla is the Squad II,2018,20,Hip Hop,Climate Change
 Collapse (Post-Amerika),Rise Against,Appeal to Reason,2008,51,Punk,"Droughts, Warming"
+Collateral Damage,Shovels & Rope,Manticore,2022,28,"Folk, Singer-Songwriter",Carbon Emissions
 Cymbal Rush,Thom Yorke,The Eraser,2006,38,"Electronic, Alternative Rock","Warming, Floods"
 Dance Miserable,Patrick Stump,Soul Punk            ,2011,26,Pop,Climate Change
 Dawn Patrol,Megadeth,Rust in Peace,1990,45,Heavy Metal,Warming
@@ -30,13 +32,13 @@ Drone Warfare feat. Nas and Pharaohe Monch,DJ Shadow,Our Pathetic Age,2019,26,"H
 Earth,Lil Dicky,Earth (Single),2019,64,Pop,"Warming, Wildfires"
 Earth moment,Sirintip,carbon,2022,4,"Pop, Electronic",Climate Activism
 Earth's Medicine,Lil B,Rain in England,2010,4,Hip Hop,Warming
-Echo-Side Blues,Sonny Rollins,Global Warming,1998,1,Jazz,Warming
+Echo-Side Blues,Sonny Rollins,Global Warming,1998,0,Jazz,Warming
 Elephant in the Room,Chris Thile,Thanks for Listening,2017,26,"Pop, Singer-Songwriter","Climate Change, Warming"
 End Of The World,Sunfruits,One Degree,2023,16,"Indie, Pop","Wildfires, Warming"
 Endangered Species,Esperanza Spalding,Radio Music Society,2012,15,Jazz,Carbon Emissions
 Explorers,Muse,The 2nd Law,2012,49,"Rock, Pop",Warming
 Fall of Sipledome,Testament,The Gathering,1999,29,Heavy Metal,Melting Ice
-Feels Like Summer,Childish Gambino,Summer Pack EP,2018,75,"Pop, R&B",Warming
+Feels Like Summer,Childish Gambino,Summer Pack EP,2018,74,"Pop, R&B",Warming
 Flatline,B.o.B,Flatline (single),2016,,Hip Hop,"Melting Ice, Warming"
 Floods,Fightstar,"One Day Son, This All Will Be Yours",2007,34,Alternative Rock,Floods
 Forever Begins,Common,Finding Forever,2007,30,Hip Hop,Warming
@@ -49,7 +51,7 @@ Gentle,Georgia Mae,Gentle (Single),2021,6,"Pop, Singer-Songwriter","Biodiversity
 Global Warming,Gojira,From Mars to Sirius,2005,49,Heavy Metal,Warming
 Global Warming,Evildead,The Underworld,1991,0,Heavy Metal,"Warming, Carbon Emissions"
 Global Warming,John Grant,"Grey Tickles, Black Pressure",2015,9,"Pop, Singer-Songwriter","Warming, Deforestation"
-Global Warming,The Acacia Strain,Continent,2008,23,Heavy Metal,Warming
+Global Warming,The Acacia Strain,Continent,2008,22,Heavy Metal,Warming
 Global Warming,Sonny Rollins,Global Warming,1998,4,Jazz,Warming
 Global Warming,Sasha Alex Sloan,I Blame The World,2022,39,"Pop, Electronic","Warming, Wildfires"
 Global Warming (feat Sensato),Pitbull,Global Warming,2012,21,"Hip Hop, Pop",Warming
@@ -88,7 +90,7 @@ LAUGH. CRY. SMILE. DIE.,Anti-Flag,LIES THEY TELL OUR CHILDREN,2023,13,Punk,"Clim
 Losing Wild,Anya Anastasia,Dissenter (EP),2022,3,"Singer-Songwriter, Pop, Folk",Biodiversity Loss
 Love Song To The Earth,Various Artists,Love Song To The Earth,2015,53,Pop,Climate Activism
 Making Do,Lake Street Dive,Obviously,2021,48,"Rock, Alternative Rock, Indie","Warming, Climate Denial"
-Manifesto,Nahko and Medicine for the People,On The Verge,2014,28,Folk,Climate Change
+Manifesto,Nahko and Medicine for the People,On The Verge,2014,27,Folk,Climate Change
 Manta Ray (with Anohni),J. Ralph,Racing Extinction (Original Motion Picture Soundtrack),2015,33,"Soundtrack, Pop",Biodiversity Loss
 Manufactured Extinct,Cattle Decapitation,The Anthropocene Extinction,2015,41,Heavy Metal,Warming
 Melting,King Gizzard & the Lizard Wizard,Flying Microtonal Banana,2017,40,Rock,Melting Ice
@@ -105,7 +107,7 @@ Not in California,K.Flay,Solutions,2019,0,Pop,Wildfires
 Nothing At All,Deep Purple,Whoosh!,2020,22,Rock,Climate Denial
 One Candle (with Sia),J. Ralph,Racing Extinction (Original Motion Picture Soundtrack),2015,33,"Pop, Soundtrack",Biodiversity Loss
 Parts per Million,Rise Against,Wolves,2017,36,Punk,"Warming, Carbon Emissions"
-Planet B,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,19,"Rock, Heavy Metal",Droughts
+Planet B,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,18,"Rock, Heavy Metal",Droughts
 Praying For Rain,Don Henley,Cass County,2015,28,"Country, Rock",Droughts
 Revolution,Heavy Water,Red Brick City,2021,7,"Rock, Heavy Metal","Warming, Climate Denial"
 Rhinestone Eyes,Gorillaz,Plastic Beach,2010,80,"Pop, Electronic",Warming
@@ -132,7 +134,7 @@ The Definition feat. Brucie B,Nas,King's Disease,2020,38,Hip Hop,Warming
 The Effects of Climate Change on Densely Populated Areas,People Under the Stairs,"Sincerely, The P",2019,42,Hip Hop,"Warming, Wildfires"
 The Fireman’s Talkin’,Bob Seger,Ride Out,2014,,Rock,"Melting Ice, Wildfires"
 The Game,Common,Finding Forever,2007,30,Hip Hop,Warming
-The Globe,Big Audio Dynamite II,The Globe,1991,44,Alternative Rock,Warming
+The Globe,Big Audio Dynamite II,The Globe,1991,43,Alternative Rock,Warming
 The Great Debate,Randy Newman,Dark Matter,2017,15,Musicals,Warming
 "The Great Dying, Pt. 1",Cattle Decapitation,Death Atlas,2019,32,Heavy Metal,"Sea Level Rise, Warming, Biodiversity Loss, Melting Ice"
 The Kids Are All Dying,Finneas,Optimist,2021,56,Pop,Carbon Emissions
@@ -140,7 +142,7 @@ The Sea is Rising,Bliss n Eso,Flying Colours,2008,52,Hip Hop,"Melting Ice, Sea L
 The Substance,Aesop Rock,Music for Earthworms,1997,,Hip Hop,Climate Change
 The Truth Comes Out,Corb Lund,Counterfeit Blues,2014,34,Country,Warming
 The Unerasable Past,Cattle Decapitation,Death Atlas,2019,31,Heavy Metal,"Climate Migration, Climate Change, Warming"
-The Wolf is at the Door,Alex Goldman,The Wolf is At The Door,2020,4,"Rock, Punk",Sea Level Rise
+The Wolf is at the Door,Alex Goldman,The Wolf is At The Door,2020,3,"Rock, Punk",Sea Level Rise
 The Writing On The Wall,Alter Bridge,The Last Hero,2016,31,"Alternative Rock, Heavy Metal","Warming, Climate Denial"
 This Side,EARTHGANG,Mirrorland,2019,45,Hip Hop,Climate Change
 Time For A Change,The Jade Assembly,Time For A Change (Single),2019,5,Alternative Rock,Climate Activism
@@ -149,7 +151,7 @@ Tomorrow,Fredrika Stahl,Tomorrow (Soundtrack),2015,28,Pop,"Renewable Energy, Cli
 Truth To Power,OneRepublic,An Inconvenient Sequel: Truth to Power,2017,35,"Pop, Soundtrack","Warming, Melting Ice"
 Unfair,Bill Madden,Child of the Same God,2008,3,"Indie, Singer-Songwriter",Carbon Emissions
 Unspoken gold feat. Owen Broder,Sirintip,carbon,2022,6,Electronic,"Warming, Renewable Energy"
-Venusian I,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,15,"Heavy Metal, Rock","Sea Level Rise, Deforestation"
+Venusian I,King Gizzard & the Lizard Wizard,Infest the Rats' Nest,2019,14,"Heavy Metal, Rock","Sea Level Rise, Deforestation"
 Vessel,SheisArjuna,The Age of Convenience,2021,34,"Pop, Singer-Songwriter","Warming, Climate Activism"
 Violence (with i_o),Grimes,Miss Anthropocene,2020,60,"Pop, Electronic",Climate Change
 Waiting For The Tide,Cody Simpson & The Tide,Wave One - EP,2017,26,"Rock, Pop",Sea Level Rise
@@ -166,4 +168,4 @@ When The Sun Burns Red,Kreator,Coma of Souls,1990,29,Heavy Metal,"Wildfires, War
 When Tomorrow Comes,Scorpions,Rock Believer,2022,33,Rock,"Climate Change, Wildfires"
 Where the Poison Is,Finneas,Where The Poison Is (Single),2020,43,Pop,Climate Change
 Who Dat Boy,"Tyler, the Creator",Flower Boy,2017,70,Hip Hop,Warming
-Wonderful Humans,Ian Kelly,Speak Your Mind,2008,12,"Indie, Singer-Songwriter","Warming, Melting Ice"
+Wonderful Humans,Ian Kelly,Speak Your Mind,2008,11,"Indie, Singer-Songwriter","Warming, Melting Ice"
