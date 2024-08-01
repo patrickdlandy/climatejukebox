@@ -18,7 +18,9 @@ Climate Jukebox is a database of musical references to climate change that inclu
 
 ## Resources
 
-A downloadable CSV of the most recent Climate Jukebox dataset is available [here](./data/climatejukebox_latest.csv).
+A simplified CSV of the Climate Jukebox song list is available [here](./data/climatejukebox_latest.csv).
+
+A more detailed relational dataset in JSON is available [here](./data/climatejukebox_export.json).
 
 ## Implementation
 
