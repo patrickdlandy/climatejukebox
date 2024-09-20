@@ -6,9 +6,11 @@ A database of musical references to climate change.
 
 [climatejukebox.org](https://climatejukebox.org)
 
-[twitter: @climatejukebox](https://twitter.com/climatejukebox)
+[X: @climatejukebox](https://twitter.com/climatejukebox)
 
 [spotify](https://open.spotify.com/user/31heni2dxqxmpwah55ftbi7w3iyu)
+
+[discogs](https://discogs.com/user/climatejukebox)
 
 [email: climatejukebox@protonmail.com](mailto:climatejukebox@protonmail.com)
 
