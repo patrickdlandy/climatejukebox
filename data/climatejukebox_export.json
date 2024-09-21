@@ -1,7 +1,7 @@
 {
     "timestamp": [
         {
-            "timestamp": "2024-09-20T03:45:33.597+00:00"
+            "timestamp": "2024-09-21T14:54:31.878+00:00"
         }
     ],
     "works": [
@@ -119,6 +119,29 @@
             "slug": "changing-tide",
             "track_id": "1kyaFSWTKDVyuiXEdQ6VfY",
             "popularity": 24
+        },
+        {
+            "id": "db29285f3f1968921239258a37177940ebfe64e2ca6b55f58a4bdd31e3bf5a3a",
+            "work_title": "Imaginal Cells",
+            "notes": "\"Imaginal Cells\" by Machine Head is included in the database for an explicit reference to climate change. The track consists of an extended narrated segment backed by atmospheric sounds and distorted guitar riffs. Narration snippet: \"We’re in a critical phase of human civilization that our survival is really in question / There is generally a feeling that something that there’s something happening / People have been exposed of course to the whole concept of peak oil, to climate change, to population explosion / The doomsday clock keeps moving closer / Religious people are talking about the End Times / Present state of disorganization / What seems to be happening is that people are beginning to realise / How many of these are real crises or how many of these are crises as a result of limitations of our belief system?\" (Genius Lyrics).",
+            "release_id": "dbf10d8c9bcdfa715cc53fcff3e160f17c7a6f9c8e96b03745e913d35c4425b6",
+            "lyrics_link_title": "Genius Lyrics - Imaginal Cells",
+            "lyrics_link": "https://genius.com/Machine-head-imaginal-cells-lyrics",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1FnX6ljRXViQZbugbqpWeH?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "",
+            "media_link": "",
+            "general_link_1_title": "YouTube - Imaginal Cells",
+            "general_link_1": "https://www.youtube.com/watch?v=sqc5esdCxJ4",
+            "general_link_2_title": "",
+            "general_link_2": "",
+            "created_at": "2023-03-07T04:08:24.524Z",
+            "updated_at": "2024-09-21T14:11:25.143Z",
+            "slug": "imaginal-cells",
+            "track_id": "1FnX6ljRXViQZbugbqpWeH",
+            "popularity": 23
         },
         {
             "id": "fd9ed2338e052bd506b2dfccf0b8aaa8468ab6f0c07b8bc59bfd40bd3de8c65b",
@@ -325,29 +348,6 @@
             "updated_at": "2024-08-02T23:03:10.279Z",
             "slug": "good-soldier",
             "track_id": "1tzKbATaZHV4Yeffdb5sJM",
-            "popularity": 22
-        },
-        {
-            "id": "db29285f3f1968921239258a37177940ebfe64e2ca6b55f58a4bdd31e3bf5a3a",
-            "work_title": "Imaginal Cells",
-            "notes": "\"Imaginal Cells\" by Machine Head is included in the database for an explicit reference to climate change. The track consists of an extended narrated segment backed by atmospheric sounds and distorted guitar riffs. Narration snippet: \"We’re in a critical phase of human civilization that our survival is really in question / There is generally a feeling that something that there’s something happening / People have been exposed of course to the whole concept of peak oil, to climate change, to population explosion / The doomsday clock keeps moving closer / Religious people are talking about the End Times / Present state of disorganization / What seems to be happening is that people are beginning to realise / How many of these are real crises or how many of these are crises as a result of limitations of our belief system?\" (Genius Lyrics).",
-            "release_id": "dbf10d8c9bcdfa715cc53fcff3e160f17c7a6f9c8e96b03745e913d35c4425b6",
-            "lyrics_link_title": "Genius Lyrics - Imaginal Cells",
-            "lyrics_link": "https://genius.com/Machine-head-imaginal-cells-lyrics",
-            "streaming_embed_1_title": "Spotify compact",
-            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/1FnX6ljRXViQZbugbqpWeH?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
-            "streaming_embed_2_title": "",
-            "streaming_embed_2": "",
-            "media_link_title": "",
-            "media_link": "",
-            "general_link_1_title": "YouTube - Imaginal Cells",
-            "general_link_1": "https://www.youtube.com/watch?v=sqc5esdCxJ4",
-            "general_link_2_title": "",
-            "general_link_2": "",
-            "created_at": "2023-03-07T04:08:24.524Z",
-            "updated_at": "2024-07-06T04:07:15.449Z",
-            "slug": "imaginal-cells",
-            "track_id": "1FnX6ljRXViQZbugbqpWeH",
             "popularity": 22
         },
         {
@@ -736,10 +736,10 @@
             "general_link_2_title": "https://www.youtube.com/watch?v=8A604BZ1YZU",
             "general_link_2": "https://www.youtube.com/watch?v=8A604BZ1YZU",
             "created_at": "2022-06-12T18:50:05.405Z",
-            "updated_at": "2024-07-06T04:04:09.356Z",
+            "updated_at": "2024-09-21T14:11:43.112Z",
             "slug": "and-it-rained-all-night",
             "track_id": "4jHYJZd4feGQMS9iE78QVe",
-            "popularity": 35
+            "popularity": 36
         },
         {
             "id": "86b53969c24cbec958073f44df6c22ad3185b7491c2503af4f5302a06bcc2128",
@@ -1380,10 +1380,10 @@
             "general_link_2_title": "",
             "general_link_2": "",
             "created_at": "2023-08-17T04:49:10.694Z",
-            "updated_at": "2024-09-20T03:34:21.389Z",
+            "updated_at": "2024-09-21T14:12:09.991Z",
             "slug": "punch-drunk-grinning-soul",
             "track_id": "1h0oR7FelLjvRh0FsOR5EF",
-            "popularity": 22
+            "popularity": 23
         },
         {
             "id": "732ff88389f4716c650ca838892912d1e099fcee25ca0925da06502f24ca1806",
@@ -2097,29 +2097,6 @@
             "slug": "echo-side-blues",
             "track_id": "3ZfZBhaBSnSqUqa8JVFaV7",
             "popularity": 0
-        },
-        {
-            "id": "da892441ce92b5955e52f9e1e1d9c015f250981bf93ba421351126fc23ef55b8",
-            "work_title": "Greenpeace",
-            "notes": "\"Greenpeace\" by James is included in the database for environmentally-themed lyrics combined with a song title that refers to Greenpeace, a notable organization that advocates for action on climate change (Wikipedia). The lyrics include perspectives of an apathetic citizen (\"I don't like the world I see / So I'll avert my gaze to the T.V / I'm too cool to get involved / Someone else can change the channel for me\"), a businessperson (\"Gonna suck the juices out of this world / Gonna treat her rough it's all she deserves / She's so cold to me / Gonna rape this world with my straight lines / Gonna straighten her out 'cause nature is just history\"), and the earth herself reacting to the damage being caused to her (\"There's a hole in my heart / Your so cruel to me / There's a hole in my heart / From your industry / There's a hole in my heart\") (Genius Lyrics). The title's explicit reference to a climate activist organization adds context to the lyrics indicating that one of the impacts humans are having on the earth is climate change. ",
-            "release_id": "d0316fb81bff9bc8c0a86880ab9678eb8e7a7c230b7b40b4b9c20b5f4e557c05",
-            "lyrics_link_title": "Genius Lyrics - Greenpeace",
-            "lyrics_link": "https://genius.com/James-greenpeace-lyrics",
-            "streaming_embed_1_title": "Spotify compact",
-            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6oPcyLVOPYthrjpIVNW7HQ?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
-            "streaming_embed_2_title": "",
-            "streaming_embed_2": "",
-            "media_link_title": "",
-            "media_link": "",
-            "general_link_1_title": "Wikipedia - Greenpeace",
-            "general_link_1": "https://en.wikipedia.org/wiki/Greenpeace",
-            "general_link_2_title": "",
-            "general_link_2": "",
-            "created_at": "2022-12-29T22:45:19.171Z",
-            "updated_at": "2024-07-06T04:05:31.873Z",
-            "slug": "greenpeace",
-            "track_id": "6oPcyLVOPYthrjpIVNW7HQ",
-            "popularity": 6
         },
         {
             "id": "c5cea9ff03033caced596efae7934c60961e0199f7d7ad7818b53d05443e3128",
@@ -3013,10 +2990,10 @@
             "general_link_2_title": "https://amazonfrontlines.org/",
             "general_link_2": "https://amazonfrontlines.org/",
             "created_at": "2022-06-21T04:07:48.460Z",
-            "updated_at": "2024-08-02T23:05:15.632Z",
+            "updated_at": "2024-09-21T14:13:22.616Z",
             "slug": "guardians-of-earth",
             "track_id": "4VNuAdiYGoVLj8NuNGosyO",
-            "popularity": 28
+            "popularity": 29
         },
         {
             "id": "cd3edd64665d536285f76f79761a0ad81ab6dbe127b418ffd11df9e733edc71b",
@@ -3226,29 +3203,6 @@
             "popularity": 0
         },
         {
-            "id": "c84e09df144381a6d83afa8295d0a8e5ae84af7fa1006875a488be9cc893b742",
-            "work_title": "Big Boy Diamonds feat. Kodak Black",
-            "notes": "\"Big Boy Diamonds\" by Gucci Mane is included in the database for an explicit reference to global warming. Gucci Mane repeatedly uses the phrase \"changin' the climate\" throughout the song, including a line in the final verse that explicitly mentions global warming: \"I caught a rash from countin' the money / I'm changin' the climate like global warming (Bling) / She seen the charm and said I'm charming / The watch on my arm, it come with an army\" (Genius Lyrics). This reference creates a double meaning for the phrase \"changin' the climate,\" which adds context to a line in the chorus about ice (diamonds): \"Big boy diamonds / Ice on me changin' the climate\" (Genius Lyrics). It is possible that \"ice,\" a slang word for diamond jewelry, alludes to the idea of a temperature change, given the context of the global warming reference. ",
-            "release_id": "eed0014c85534c19bef4f9619329ab1541568758ce0b6d94450a902540292f04",
-            "lyrics_link_title": "Genius Lyrics - Big Boy Diamonds",
-            "lyrics_link": "https://genius.com/Gucci-mane-big-boy-diamonds-lyrics",
-            "streaming_embed_1_title": "Spotify compact",
-            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5FDCDBFDKpf7TLzDx6r2Lp?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
-            "streaming_embed_2_title": "",
-            "streaming_embed_2": "",
-            "media_link_title": "",
-            "media_link": "",
-            "general_link_1_title": "YouTube - Gucci Mane - Big Boy Diamonds feat. Kodak Black [Official Audio]",
-            "general_link_1": "https://www.youtube.com/watch?v=VOS1J2mdSx8",
-            "general_link_2_title": "",
-            "general_link_2": "",
-            "created_at": "2023-12-04T05:08:50.876Z",
-            "updated_at": "2024-09-20T03:35:43.186Z",
-            "slug": "big-boy-diamonds-feat-kodak-black",
-            "track_id": "5FDCDBFDKpf7TLzDx6r2Lp",
-            "popularity": 47
-        },
-        {
             "id": "d2ae26fdca54e7da42a964b5b18864053f223df697412c9764f501ceabccfc12",
             "work_title": "Endangered Species",
             "notes": "Esperanza Spalding's \"Endangered Species\" is included in the database for a strong implicit reference to climate change. The song describes the relationship between humans and mother earth, characterizing mother earth as endangered by humans but ultimately grounded by her, falling from the heights of technological progress. The lyrics include several references to fossil fuels (\"Mighty jet planes fly,\" \"No one hears it through the din as engines burn,\" \"Swarms with cars and poison,\" \"Blowing up the mountains foul oil fountains\"), and describes a scenario in which humans will suffer the consequences of burning fossil fuels: \"What burns up must come down / Human nature / Scrambling late to curb hard consequences\" (Genius Lyrics, audio track).",
@@ -3293,6 +3247,29 @@
             "slug": "elephant-in-the-room",
             "track_id": "3jLiXUDDYW2RA7HxffcGNM",
             "popularity": 17
+        },
+        {
+            "id": "c84e09df144381a6d83afa8295d0a8e5ae84af7fa1006875a488be9cc893b742",
+            "work_title": "Big Boy Diamonds feat. Kodak Black",
+            "notes": "\"Big Boy Diamonds\" by Gucci Mane is included in the database for an explicit reference to global warming. Gucci Mane repeatedly uses the phrase \"changin' the climate\" throughout the song, including a line in the final verse that explicitly mentions global warming: \"I caught a rash from countin' the money / I'm changin' the climate like global warming (Bling) / She seen the charm and said I'm charming / The watch on my arm, it come with an army\" (Genius Lyrics). This reference creates a double meaning for the phrase \"changin' the climate,\" which adds context to a line in the chorus about ice (diamonds): \"Big boy diamonds / Ice on me changin' the climate\" (Genius Lyrics). It is possible that \"ice,\" a slang word for diamond jewelry, alludes to the idea of a temperature change, given the context of the global warming reference. ",
+            "release_id": "eed0014c85534c19bef4f9619329ab1541568758ce0b6d94450a902540292f04",
+            "lyrics_link_title": "Genius Lyrics - Big Boy Diamonds",
+            "lyrics_link": "https://genius.com/Gucci-mane-big-boy-diamonds-lyrics",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5FDCDBFDKpf7TLzDx6r2Lp?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "",
+            "media_link": "",
+            "general_link_1_title": "YouTube - Gucci Mane - Big Boy Diamonds feat. Kodak Black [Official Audio]",
+            "general_link_1": "https://www.youtube.com/watch?v=VOS1J2mdSx8",
+            "general_link_2_title": "",
+            "general_link_2": "",
+            "created_at": "2023-12-04T05:08:50.876Z",
+            "updated_at": "2024-09-21T14:13:33.864Z",
+            "slug": "big-boy-diamonds-feat-kodak-black",
+            "track_id": "5FDCDBFDKpf7TLzDx6r2Lp",
+            "popularity": 48
         },
         {
             "id": "7695ca3d90541009d8ddee0aeb6d7fc7f82d4cb36ae02eea57c9073014c99928",
@@ -3496,10 +3473,10 @@
             "general_link_2_title": "",
             "general_link_2": "",
             "created_at": "2022-12-28T18:10:39.311Z",
-            "updated_at": "2024-07-22T03:12:43.268Z",
+            "updated_at": "2024-09-21T14:13:46.072Z",
             "slug": "my-name-is-dark-art-mix",
             "track_id": "43DBhwmvfhWTQwBRmJsafC",
-            "popularity": 44
+            "popularity": 45
         },
         {
             "id": "5d82d3304d9e8a99557661be43e00233dd9f5e6b3bda2afc7459b221d71e6983",
@@ -4071,10 +4048,10 @@
             "general_link_2_title": "https://www.youtube.com/watch?v=M9SGYBHY0qs",
             "general_link_2": "https://www.youtube.com/watch?v=M9SGYBHY0qs",
             "created_at": "2022-12-27T20:28:40.299Z",
-            "updated_at": "2024-07-06T04:04:17.641Z",
+            "updated_at": "2024-09-21T14:14:14.222Z",
             "slug": "violence-with-i_o",
             "track_id": "3KeOFns3LGJuh1lapMm9eA",
-            "popularity": 53
+            "popularity": 54
         },
         {
             "id": "febadd4131c5c033b553700027f080607c9fa6f8fac535f3f1ae5fe47b8cf7b2",
@@ -4117,10 +4094,10 @@
             "general_link_2_title": "",
             "general_link_2": "",
             "created_at": "2023-03-30T02:46:07.928Z",
-            "updated_at": "2024-09-20T03:36:24.786Z",
+            "updated_at": "2024-09-21T14:14:16.500Z",
             "slug": "forever-begins",
             "track_id": "6IjorpTGDPyU0On9BU7mnA",
-            "popularity": 24
+            "popularity": 25
         },
         {
             "id": "3f1209148408d510d7ae88ecfa7075adad00b8860b72c2156027f2e949081ab8",
@@ -4307,29 +4284,6 @@
             "popularity": 51
         },
         {
-            "id": "ca880c65f283fe2519126b776bc9446855e0a321c8849d14b8d935b01e16342f",
-            "work_title": "99 In October",
-            "notes": "\"99 In October\" by The RTs is included in the database for a strong implicit reference to global warming. The song uses two references to Farenheit temperatures at particular times of year, both of them intended to metaphorically indicate warmth in the context of a relationship. \"99 in October\" and \"88 in December\" are both quite hot relative to expectations for Fall and Winter months for states in the US, even the most southern states. For example, Florida, known for its warm, beach-friendly weather year-round, would be considered unusually hot at 99 degrees Farhenheit in October (tripsavvy.com). In the context of the song's lyrical themes, the unusually high temperatures in the Fall and Winter are signifying that Summer, representing the warmth of a romance, is not over yet, at least according to the hopes of the song's narrator: \"99 in October / This summer's far from over / Why don't you even come over? / Before too long we'll be older / And it'll be colder / We'll be looking back over our shoulder/ 88 in December / Our love's now a glowing ember\" (Spotify).",
-            "release_id": "639b5c961f92c674041ecb0c682760b8537264a320cce43f10f11f5bd8523abb",
-            "lyrics_link_title": "Spotify (lyrics) - 99 In October",
-            "lyrics_link": "https://open.spotify.com/track/5Be7wmiBjAMjAxP81j8Efo",
-            "streaming_embed_1_title": "Spotify compact",
-            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5Be7wmiBjAMjAxP81j8Efo?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
-            "streaming_embed_2_title": "",
-            "streaming_embed_2": "",
-            "media_link_title": "tripsavvy - October in Florida: Weather, What to Pack, and What to See",
-            "media_link": "https://www.tripsavvy.com/florida-october-weather-festivals-and-events-1513097",
-            "general_link_1_title": "Bandcamp - 99 In October",
-            "general_link_1": "https://therts.bandcamp.com/track/99-in-october-2",
-            "general_link_2_title": "https://www.youtube.com/watch?v=aUWZ_t1_m6Y",
-            "general_link_2": "https://www.youtube.com/watch?v=aUWZ_t1_m6Y",
-            "created_at": "2023-11-11T17:35:01.410Z",
-            "updated_at": "2024-07-06T04:05:29.498Z",
-            "slug": "99-in-october",
-            "track_id": "5Be7wmiBjAMjAxP81j8Efo",
-            "popularity": 1
-        },
-        {
             "id": "a740e9dc8fb60529b8c2dabe874a8641ce3062484aa411489c66595f8fbf98fb",
             "work_title": "A Kindly Reminder",
             "notes": "Passenger's \"A Kindly Reminder\" is included in the database for political commentary about climate change. The song, clearly directed at the recently inaugurated 45th United States President Donald Trump, criticizes his skepticism and denial of climate change: \"And I heard you say climate change isn't real / But that's not how the world's leading scientists feel / So go bury your head in the sand if you will / But the waters are rising around Capitol Hill\" (Genius Lyrics). Trump's statements on climate change over the years have varied greatly in meaning but have often referred to it as a hoax, according to a Washington Post article published only months before Trump's inauguration and the release of this song (Washington Post).",
@@ -4514,29 +4468,6 @@
             "popularity": 0
         },
         {
-            "id": "406073f8501c97c1e9c2714d7769aa03ca4fa44c75cb43853471ef70afe9f2b0",
-            "work_title": "The Unerasable Past",
-            "notes": "\"The Unerasable Past\" by Cattle Decapitation is included in the database for an explicit reference to climate change and for discussion of the issue of climate migration. This track mostly consists of a spoken narration about climate change, and it is placed before the final song on the regular release of the album \"Death Atlas\" (Wikipedia). Jon Fishman, the drummer of the jam band Phish, performed the narration, which includes the following: \"The recent unparalleled temperatures in the arctic, as well as the data showing abnormal rises in upper atmosphere methane levels, converge to give the impression that the near future of the entire human race is at stake. In 2018 the World Bank Group reported that many countries will need to prepare for over 100-million displaced people, as well as the displacement of millions of international refugees due to the ill effects of climate change. It has become clear that an enormous operation and policy program to revolutionize agriculture and repair the Earth's ecosystems is immediately needed\" (Wikipedia, Genius Lyrics). ",
-            "release_id": "b6d5e79b4bc98c1d06b3217f11a9ffb794dec1a75b28bc8fbc41ec278356797c",
-            "lyrics_link_title": "Genius Lyrics - The Unerasable Past",
-            "lyrics_link": "https://genius.com/Cattle-decapitation-the-unerasable-past-lyrics",
-            "streaming_embed_1_title": "Spotify compact",
-            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3u9l2QSjolEKmhNThx064Q?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
-            "streaming_embed_2_title": "",
-            "streaming_embed_2": "",
-            "media_link_title": "",
-            "media_link": "",
-            "general_link_1_title": "YouTube - The Unerasable Past",
-            "general_link_1": "https://www.youtube.com/watch?v=nz5eaw2gzpw",
-            "general_link_2_title": "",
-            "general_link_2": "",
-            "created_at": "2023-03-04T14:00:18.839Z",
-            "updated_at": "2024-07-22T03:14:53.216Z",
-            "slug": "the-unerasable-past",
-            "track_id": "3u9l2QSjolEKmhNThx064Q",
-            "popularity": 25
-        },
-        {
             "id": "935038aa863ec5cd551c331b87e73a73664bb4b7be7a89c28b41749375e9b398",
             "work_title": "Wake Up America",
             "notes": "\"Wake Up America\" is included in the database for an explicit reference to global warming. Lyrics: \"Oh, can you take care of her? / Oh, maybe you can spare her / Several moments of your consideration / Leading up to the final destination / Oh, the earth is calling out / I wanna learn what it's all about, but / Everything I read's global warming, going green / I don't know what all this means / But it seems to be saying / Wake up, America\" (Genius Lyrics, audio track).",
@@ -4558,6 +4489,29 @@
             "slug": "wake-up-america",
             "track_id": "51NbARtVvAiTPkJuTh4kZq",
             "popularity": 31
+        },
+        {
+            "id": "406073f8501c97c1e9c2714d7769aa03ca4fa44c75cb43853471ef70afe9f2b0",
+            "work_title": "The Unerasable Past",
+            "notes": "\"The Unerasable Past\" by Cattle Decapitation is included in the database for an explicit reference to climate change and for discussion of the issue of climate migration. This track mostly consists of a spoken narration about climate change, and it is placed before the final song on the regular release of the album \"Death Atlas\" (Wikipedia). Jon Fishman, the drummer of the jam band Phish, performed the narration, which includes the following: \"The recent unparalleled temperatures in the arctic, as well as the data showing abnormal rises in upper atmosphere methane levels, converge to give the impression that the near future of the entire human race is at stake. In 2018 the World Bank Group reported that many countries will need to prepare for over 100-million displaced people, as well as the displacement of millions of international refugees due to the ill effects of climate change. It has become clear that an enormous operation and policy program to revolutionize agriculture and repair the Earth's ecosystems is immediately needed\" (Wikipedia, Genius Lyrics). ",
+            "release_id": "b6d5e79b4bc98c1d06b3217f11a9ffb794dec1a75b28bc8fbc41ec278356797c",
+            "lyrics_link_title": "Genius Lyrics - The Unerasable Past",
+            "lyrics_link": "https://genius.com/Cattle-decapitation-the-unerasable-past-lyrics",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/3u9l2QSjolEKmhNThx064Q?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "",
+            "media_link": "",
+            "general_link_1_title": "YouTube - The Unerasable Past",
+            "general_link_1": "https://www.youtube.com/watch?v=nz5eaw2gzpw",
+            "general_link_2_title": "",
+            "general_link_2": "",
+            "created_at": "2023-03-04T14:00:18.839Z",
+            "updated_at": "2024-09-21T14:14:36.793Z",
+            "slug": "the-unerasable-past",
+            "track_id": "3u9l2QSjolEKmhNThx064Q",
+            "popularity": 26
         },
         {
             "id": "520006d218a46761d2771a4696d86afcaed6ef0c0a7ef7831d4ddcf6822fe408",
@@ -4813,29 +4767,6 @@
             "popularity": 51
         },
         {
-            "id": "03916487b0dca0a52ac0324c4ac11d72d849d14df141e4b0bbf2a753d6006463",
-            "work_title": "Collateral Damage",
-            "notes": "\"Collateral Damage\" by Shovels \u0026 Rope is included in the database for a strong implicit lyrical reference to greenhouse gases and climate change. In the first verse, \"having babies\" and \"eating meat\" are referred to as activities contributing to \"collateral damage:\" \"Collateral damage, crowd control / Not sure who paid, not sure who stole / Somebody always pays when you get it on the cheap / So I stopped having babies and I stopped eating meat\" (Genius Lyrics). In terms of greenhouse gas emissions that contribute to global warming, having one fewer child and adopting a vegetarian diet are both considered significant for individuals looking to reduce personal carbon footprint (Environmental Research Letters). Both of these specific lifestyle changes, considered together, clearly form an implicit reference to greenhouse gas emissions, indicating that the \"collateral damage,\" at least in this verse, is climate change. Additionally, in this context, the lyric \"Not sure who paid, not sure who stole\" may refer to the difficulties in accounting for who is responsible for greenhouse gases and the lyric \"Somebody always pays when you get it on the cheap\" may indicate that global warming is the cost of the consumption of cheap fossil fuels, but these last two references are less clear-cut and thus unconfirmed.",
-            "release_id": "8f749cdf14ddc27f6848e6f22b9b40295384b570bcf9d0a0bad6a168e0c0289a",
-            "lyrics_link_title": "Genius Lyrics - Collateral Damage",
-            "lyrics_link": "https://genius.com/Shovels-and-rope-collateral-damage-lyrics",
-            "streaming_embed_1_title": "Spotify compact",
-            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5dzfB8cv7IYfOm7nZk3wv2?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
-            "streaming_embed_2_title": "",
-            "streaming_embed_2": "",
-            "media_link_title": "Sierra Club - 11 Songs about Climate Change",
-            "media_link": "https://www.sierraclub.org/sierra/11-songs-about-climate-change",
-            "general_link_1_title": "YouTube - Collateral Damage",
-            "general_link_1": "https://www.youtube.com/watch?v=284TbaXD3t8",
-            "general_link_2_title": "https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/pdf",
-            "general_link_2": "https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/pdf",
-            "created_at": "2023-07-27T17:55:40.996Z",
-            "updated_at": "2024-09-20T03:36:57.530Z",
-            "slug": "collateral-damage",
-            "track_id": "5dzfB8cv7IYfOm7nZk3wv2",
-            "popularity": 3
-        },
-        {
             "id": "b014745f4791071567b3c2dbf95f4ee9f0f2407095c93269b58ca54064ee39bc",
             "work_title": "This Side",
             "notes": "\"This Side\" is included in the database for an explicit reference to climate change. In the third verse, Doctur Dot includes these lines amid layered descriptions of triumph and urban struggle: \"Rick James, Charlie Murphy, I'm a product of the chitlin circuit / I'm a product of the need to purchase / Drop bars like I'm losing service / Roll my R's when I feel exotic / Hit the blunt like a damn pinãta, ayy caramba / I was a beast, now I'm the jungle / Now I'm the wind, now I'm the rain, the climate change / I crack a joke to hide the pain, it doesn't work / We scratch the surface, we tip the bird / Don't give a fuck, we not concerned, it could be worse\" (Genius Lyrics, audio track).",
@@ -4922,10 +4853,102 @@
             "general_link_2_title": "https://en.wikipedia.org/wiki/Our_Planet#Soundtrack",
             "general_link_2": "https://en.wikipedia.org/wiki/Our_Planet#Soundtrack",
             "created_at": "2022-12-14T04:41:48.985Z",
-            "updated_at": "2024-09-20T03:37:03.087Z",
+            "updated_at": "2024-09-21T14:14:55.869Z",
             "slug": "in-this-together-with-ellie-goulding",
             "track_id": "4Zb9dRdpJMcHjT6wExZa8x",
-            "popularity": 28
+            "popularity": 29
+        },
+        {
+            "id": "da892441ce92b5955e52f9e1e1d9c015f250981bf93ba421351126fc23ef55b8",
+            "work_title": "Greenpeace",
+            "notes": "\"Greenpeace\" by James is included in the database for environmentally-themed lyrics combined with a song title that refers to Greenpeace, a notable organization that advocates for action on climate change (Wikipedia). The lyrics include perspectives of an apathetic citizen (\"I don't like the world I see / So I'll avert my gaze to the T.V / I'm too cool to get involved / Someone else can change the channel for me\"), a businessperson (\"Gonna suck the juices out of this world / Gonna treat her rough it's all she deserves / She's so cold to me / Gonna rape this world with my straight lines / Gonna straighten her out 'cause nature is just history\"), and the earth herself reacting to the damage being caused to her (\"There's a hole in my heart / Your so cruel to me / There's a hole in my heart / From your industry / There's a hole in my heart\") (Genius Lyrics). The title's explicit reference to a climate activist organization adds context to the lyrics indicating that one of the impacts humans are having on the earth is climate change. ",
+            "release_id": "d0316fb81bff9bc8c0a86880ab9678eb8e7a7c230b7b40b4b9c20b5f4e557c05",
+            "lyrics_link_title": "Genius Lyrics - Greenpeace",
+            "lyrics_link": "https://genius.com/James-greenpeace-lyrics",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/6oPcyLVOPYthrjpIVNW7HQ?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "",
+            "media_link": "",
+            "general_link_1_title": "Wikipedia - Greenpeace",
+            "general_link_1": "https://en.wikipedia.org/wiki/Greenpeace",
+            "general_link_2_title": "",
+            "general_link_2": "",
+            "created_at": "2022-12-29T22:45:19.171Z",
+            "updated_at": "2024-09-21T14:12:39.038Z",
+            "slug": "greenpeace",
+            "track_id": "6oPcyLVOPYthrjpIVNW7HQ",
+            "popularity": 7
+        },
+        {
+            "id": "ca880c65f283fe2519126b776bc9446855e0a321c8849d14b8d935b01e16342f",
+            "work_title": "99 In October",
+            "notes": "\"99 In October\" by The RTs is included in the database for a strong implicit reference to global warming. The song uses two references to Farenheit temperatures at particular times of year, both of them intended to metaphorically indicate warmth in the context of a relationship. \"99 in October\" and \"88 in December\" are both quite hot relative to expectations for Fall and Winter months for states in the US, even the most southern states. For example, Florida, known for its warm, beach-friendly weather year-round, would be considered unusually hot at 99 degrees Farhenheit in October (tripsavvy.com). In the context of the song's lyrical themes, the unusually high temperatures in the Fall and Winter are signifying that Summer, representing the warmth of a romance, is not over yet, at least according to the hopes of the song's narrator: \"99 in October / This summer's far from over / Why don't you even come over? / Before too long we'll be older / And it'll be colder / We'll be looking back over our shoulder/ 88 in December / Our love's now a glowing ember\" (Spotify).",
+            "release_id": "639b5c961f92c674041ecb0c682760b8537264a320cce43f10f11f5bd8523abb",
+            "lyrics_link_title": "Spotify (lyrics) - 99 In October",
+            "lyrics_link": "https://open.spotify.com/track/5Be7wmiBjAMjAxP81j8Efo",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5Be7wmiBjAMjAxP81j8Efo?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "tripsavvy - October in Florida: Weather, What to Pack, and What to See",
+            "media_link": "https://www.tripsavvy.com/florida-october-weather-festivals-and-events-1513097",
+            "general_link_1_title": "Bandcamp - 99 In October",
+            "general_link_1": "https://therts.bandcamp.com/track/99-in-october-2",
+            "general_link_2_title": "https://www.youtube.com/watch?v=aUWZ_t1_m6Y",
+            "general_link_2": "https://www.youtube.com/watch?v=aUWZ_t1_m6Y",
+            "created_at": "2023-11-11T17:35:01.410Z",
+            "updated_at": "2024-09-21T14:14:26.653Z",
+            "slug": "99-in-october",
+            "track_id": "5Be7wmiBjAMjAxP81j8Efo",
+            "popularity": 0
+        },
+        {
+            "id": "03916487b0dca0a52ac0324c4ac11d72d849d14df141e4b0bbf2a753d6006463",
+            "work_title": "Collateral Damage",
+            "notes": "\"Collateral Damage\" by Shovels \u0026 Rope is included in the database for a strong implicit lyrical reference to greenhouse gases and climate change. In the first verse, \"having babies\" and \"eating meat\" are referred to as activities contributing to \"collateral damage:\" \"Collateral damage, crowd control / Not sure who paid, not sure who stole / Somebody always pays when you get it on the cheap / So I stopped having babies and I stopped eating meat\" (Genius Lyrics). In terms of greenhouse gas emissions that contribute to global warming, having one fewer child and adopting a vegetarian diet are both considered significant for individuals looking to reduce personal carbon footprint (Environmental Research Letters). Both of these specific lifestyle changes, considered together, clearly form an implicit reference to greenhouse gas emissions, indicating that the \"collateral damage,\" at least in this verse, is climate change. Additionally, in this context, the lyric \"Not sure who paid, not sure who stole\" may refer to the difficulties in accounting for who is responsible for greenhouse gases and the lyric \"Somebody always pays when you get it on the cheap\" may indicate that global warming is the cost of the consumption of cheap fossil fuels, but these last two references are less clear-cut and thus unconfirmed.",
+            "release_id": "8f749cdf14ddc27f6848e6f22b9b40295384b570bcf9d0a0bad6a168e0c0289a",
+            "lyrics_link_title": "Genius Lyrics - Collateral Damage",
+            "lyrics_link": "https://genius.com/Shovels-and-rope-collateral-damage-lyrics",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/5dzfB8cv7IYfOm7nZk3wv2?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "Sierra Club - 11 Songs about Climate Change",
+            "media_link": "https://www.sierraclub.org/sierra/11-songs-about-climate-change",
+            "general_link_1_title": "YouTube - Collateral Damage",
+            "general_link_1": "https://www.youtube.com/watch?v=284TbaXD3t8",
+            "general_link_2_title": "https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/pdf",
+            "general_link_2": "https://iopscience.iop.org/article/10.1088/1748-9326/aa7541/pdf",
+            "created_at": "2023-07-27T17:55:40.996Z",
+            "updated_at": "2024-09-21T14:14:51.364Z",
+            "slug": "collateral-damage",
+            "track_id": "5dzfB8cv7IYfOm7nZk3wv2",
+            "popularity": 2
+        },
+        {
+            "id": "43154d1778d6890b2679cbd2b00de7e49adebcf374d0a9993b9d76b6fb762ee1",
+            "work_title": "Before The Water Gets Too High",
+            "notes": "\"Before The Water Gets Too High\" by Parquet Courts is included in the database for strong implicit references to climate change in the title and lyrics. The chorus describes water levels rising (\"Before the water gets too high / Before the water gets too high\") and the pre-chorus invokes the idea of crossing a threshold that cannot be uncrossed: \"Glass barely bends before it cracks / Embedded down into our path / Paved in the crimson of our tracks / Without the chance of turning back.\" The idea of crossing a threshold of global warming that cannot be reversed is known as a \"climate tipping point\" and the idea of glass bending before it suddenly breaks or going down a path that cannot be returned from may be a reference to this idea in the context of the song (Nature). However, the clearest reference to climate change occurs in the first verse: \"Which hands get to turn the final page? / In whose throat belongs the swan song / Of crisis, warming, denial, change?\" The four words \"crisis, warming, denial, change\" clearly refer to \"climate crisis,\" \"global warming,\" \"climate denial,\" and \"climate change\" in the context of the broader song (Genius Lyrics).\n",
+            "release_id": "bcdd4e72d9f409e6dc2f2cf5b5cc64a018da3fac1ac0082e7c6cfd7518f85ab5",
+            "lyrics_link_title": "Genius lyrics - Before The Water Gets Too High",
+            "lyrics_link": "https://genius.com/Parquet-courts-before-the-water-gets-too-high-lyrics",
+            "streaming_embed_1_title": "Spotify compact",
+            "streaming_embed_1": "\u003ciframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/2b4nAtGKMuUMuvH203xngH?utm_source=generator\u0026theme=0\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"\u003e\u003c/iframe\u003e",
+            "streaming_embed_2_title": "",
+            "streaming_embed_2": "",
+            "media_link_title": "Nature - Climate tipping points — too risky to bet against",
+            "media_link": "https://www.nature.com/articles/d41586-019-03595-0",
+            "general_link_1_title": "YouTube - Before the Water Gets Too High",
+            "general_link_1": "https://www.youtube.com/watch?v=7s65Zc6ULbo",
+            "general_link_2_title": "",
+            "general_link_2": "",
+            "created_at": "2024-09-21T13:40:05.389Z",
+            "updated_at": "2024-09-21T14:37:40.337Z",
+            "slug": "before-the-water-gets-too-high",
+            "track_id": "2b4nAtGKMuUMuvH203xngH",
+            "popularity": 37
         }
     ],
     "releases": [
@@ -7328,6 +7351,18 @@
             "link_1": "https://vampiresquid.bandcamp.com/album/nautilus-world",
             "created_at": "2024-09-20T03:12:10.473Z",
             "updated_at": "2024-09-20T03:12:10.473Z"
+        },
+        {
+            "id": "bcdd4e72d9f409e6dc2f2cf5b5cc64a018da3fac1ac0082e7c6cfd7518f85ab5",
+            "release_title": "Wide Awake!",
+            "release_date": "2018-05-18T00:00:00.000Z",
+            "notes": "\"Wide Awake!\" is Parquet Courts' sixth studio album, released in 2018 on Rough Trade Records. The album was produced by Danger Mouse.",
+            "artist_id": "953fe6c2f37f698cf6bbd0c04ac831b8e27f1a757801f351dcee5c1ac6311c99",
+            "discogs_link": "https://www.discogs.com/master/1364319-Parquet-Courts-Wide-Awake",
+            "link_1_title": "Wikipedia - Wide Awake!",
+            "link_1": "https://en.wikipedia.org/wiki/Wide_Awake!",
+            "created_at": "2024-09-21T12:54:28.107Z",
+            "updated_at": "2024-09-21T12:56:06.149Z"
         }
     ],
     "artists": [
@@ -9382,6 +9417,18 @@
             "created_at": "2024-09-20T02:59:05.107Z",
             "updated_at": "2024-09-20T02:59:05.107Z",
             "slug": "vampire-squid"
+        },
+        {
+            "id": "953fe6c2f37f698cf6bbd0c04ac831b8e27f1a757801f351dcee5c1ac6311c99",
+            "name": "Parquet Courts",
+            "notes": "Parquet Courts is an American rock band from New York City. Members met while attending the University of North Texas. The current lineup of Parquet Courts is Andrew Savage (vocals, guitar), Austin Brown (vocals, guitar, keyboard), Sean Yeaton (bass, vocals), and Max Savage (drums) (Wikipedia).",
+            "link_1_title": "Wikipedia - Parquet Courts",
+            "link_1": "https://en.wikipedia.org/wiki/Parquet_Courts",
+            "link_2_title": "https://www.parquet-courts.com/",
+            "link_2": "parquet-courts.com",
+            "created_at": "2024-09-21T12:45:40.753Z",
+            "updated_at": "2024-09-21T12:45:40.753Z",
+            "slug": "parquet-courts"
         }
     ],
     "genres": [
@@ -9798,15 +9845,15 @@
     ],
     "stats": [
         {
-            "id": "6d30b432eb16ec1f44e907a64825f8b5ce35ce2ad7a7c2e2c51d0f2d17ddf174",
-            "work_count": 214,
-            "artist_count": 171,
+            "id": "a7741d5cd1e0f6eedd8e9821176aa9b6e249da98701a6e94f77d86db0039b4fd",
+            "work_count": 215,
+            "artist_count": 172,
             "genre_count": "19",
-            "integer": "[{\"Year\":1988,\"Song Total\":1},{\"Year\":1989,\"Song Total\":3},{\"Year\":1990,\"Song Total\":5},{\"Year\":1991,\"Song Total\":4},{\"Year\":1992,\"Song Total\":0},{\"Year\":1993,\"Song Total\":2},{\"Year\":1994,\"Song Total\":0},{\"Year\":1995,\"Song Total\":0},{\"Year\":1996,\"Song Total\":0},{\"Year\":1997,\"Song Total\":2},{\"Year\":1998,\"Song Total\":2},{\"Year\":1999,\"Song Total\":3},{\"Year\":2000,\"Song Total\":2},{\"Year\":2001,\"Song Total\":0},{\"Year\":2002,\"Song Total\":1},{\"Year\":2003,\"Song Total\":2},{\"Year\":2004,\"Song Total\":0},{\"Year\":2005,\"Song Total\":3},{\"Year\":2006,\"Song Total\":3},{\"Year\":2007,\"Song Total\":6},{\"Year\":2008,\"Song Total\":15},{\"Year\":2009,\"Song Total\":7},{\"Year\":2010,\"Song Total\":6},{\"Year\":2011,\"Song Total\":6},{\"Year\":2012,\"Song Total\":7},{\"Year\":2013,\"Song Total\":5},{\"Year\":2014,\"Song Total\":8},{\"Year\":2015,\"Song Total\":14},{\"Year\":2016,\"Song Total\":5},{\"Year\":2017,\"Song Total\":13},{\"Year\":2018,\"Song Total\":8},{\"Year\":2019,\"Song Total\":23},{\"Year\":2020,\"Song Total\":18},{\"Year\":2021,\"Song Total\":15},{\"Year\":2022,\"Song Total\":15},{\"Year\":2023,\"Song Total\":10}]",
+            "integer": "[{\"Year\":1988,\"Song Total\":1},{\"Year\":1989,\"Song Total\":3},{\"Year\":1990,\"Song Total\":5},{\"Year\":1991,\"Song Total\":4},{\"Year\":1992,\"Song Total\":0},{\"Year\":1993,\"Song Total\":2},{\"Year\":1994,\"Song Total\":0},{\"Year\":1995,\"Song Total\":0},{\"Year\":1996,\"Song Total\":0},{\"Year\":1997,\"Song Total\":2},{\"Year\":1998,\"Song Total\":2},{\"Year\":1999,\"Song Total\":3},{\"Year\":2000,\"Song Total\":2},{\"Year\":2001,\"Song Total\":0},{\"Year\":2002,\"Song Total\":1},{\"Year\":2003,\"Song Total\":2},{\"Year\":2004,\"Song Total\":0},{\"Year\":2005,\"Song Total\":3},{\"Year\":2006,\"Song Total\":3},{\"Year\":2007,\"Song Total\":6},{\"Year\":2008,\"Song Total\":15},{\"Year\":2009,\"Song Total\":7},{\"Year\":2010,\"Song Total\":6},{\"Year\":2011,\"Song Total\":6},{\"Year\":2012,\"Song Total\":7},{\"Year\":2013,\"Song Total\":5},{\"Year\":2014,\"Song Total\":8},{\"Year\":2015,\"Song Total\":14},{\"Year\":2016,\"Song Total\":5},{\"Year\":2017,\"Song Total\":13},{\"Year\":2018,\"Song Total\":9},{\"Year\":2019,\"Song Total\":23},{\"Year\":2020,\"Song Total\":18},{\"Year\":2021,\"Song Total\":15},{\"Year\":2022,\"Song Total\":15},{\"Year\":2023,\"Song Total\":10}]",
             "earliest_work_date": "1988-12-06T00:00:00.000Z",
             "newest_work_date": "2023-11-13T00:00:00.000Z",
-            "created_at": "2024-09-20T03:30:04.727Z",
-            "updated_at": "2024-09-20T03:30:04.727Z"
+            "created_at": "2024-09-21T13:54:47.689Z",
+            "updated_at": "2024-09-21T13:54:47.689Z"
         }
     ],
     "work_genres": [
@@ -11902,6 +11949,27 @@
             "genre_id": "ad8af8c31df4fc3566029961595bb9ec8df285138fc2d89bbc5654bee5ede129",
             "created_at": "2024-09-20T03:28:11.071Z",
             "updated_at": "2024-09-20T03:28:11.071Z"
+        },
+        {
+            "id": "34434e2be6588514fa56c3c2996f6b25dbd9dc0af14f5abaf85769bc367acc7f",
+            "work_id": "43154d1778d6890b2679cbd2b00de7e49adebcf374d0a9993b9d76b6fb762ee1",
+            "genre_id": "f34caef22cbd74c820c0947baf500317ac74643a04d987887e7cc68d71b2124a",
+            "created_at": "2024-09-21T13:40:27.461Z",
+            "updated_at": "2024-09-21T13:40:27.461Z"
+        },
+        {
+            "id": "f4da6c44b92e3fc3ef24f4aaed8ed7ecd994b38cf107ffe077a4486f4b1332f5",
+            "work_id": "43154d1778d6890b2679cbd2b00de7e49adebcf374d0a9993b9d76b6fb762ee1",
+            "genre_id": "0fad7c66104f011ca54ea19ae3db45f4602a166b0c7c35daddcc05c593829a9b",
+            "created_at": "2024-09-21T13:40:33.506Z",
+            "updated_at": "2024-09-21T13:40:33.506Z"
+        },
+        {
+            "id": "d7fd6ca322686a85582b623f5312218517dfff33aa9e1e487881e547e4d34c1e",
+            "work_id": "43154d1778d6890b2679cbd2b00de7e49adebcf374d0a9993b9d76b6fb762ee1",
+            "genre_id": "fe00e75f735eb6597e0b0e08e6f7a97aae174333794c6acd54784607706af4b1",
+            "created_at": "2024-09-21T13:40:43.402Z",
+            "updated_at": "2024-09-21T13:40:43.402Z"
         }
     ],
     "work_themes": [
@@ -14256,6 +14324,20 @@
             "theme_id": "97f474c3c5813962527adebddea1a10405227e59ce072fd731ff7ffe5ad78680",
             "created_at": "2024-09-20T03:29:12.108Z",
             "updated_at": "2024-09-20T03:29:12.108Z"
+        },
+        {
+            "id": "848a8ea03cd2133164edad03c083bbcf294f6046788126d94d819969280cb849",
+            "work_id": "43154d1778d6890b2679cbd2b00de7e49adebcf374d0a9993b9d76b6fb762ee1",
+            "theme_id": "2f409c8286abe0b06b369b3dbd2f951d5bd3c3281eca2f1210d49ace9c253b1f",
+            "created_at": "2024-09-21T13:41:15.233Z",
+            "updated_at": "2024-09-21T13:41:15.233Z"
+        },
+        {
+            "id": "23a0ce6336521b3621a87da616bdc115418d891670c2c665ece3d6e4b3a227a8",
+            "work_id": "43154d1778d6890b2679cbd2b00de7e49adebcf374d0a9993b9d76b6fb762ee1",
+            "theme_id": "652a31ccc89a987411679990fe13968fac1d8a552fe7883f5f4157a4ef6e06f1",
+            "created_at": "2024-09-21T13:41:25.713Z",
+            "updated_at": "2024-09-21T13:41:25.713Z"
         }
     ]
 }
